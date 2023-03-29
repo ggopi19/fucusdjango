@@ -2,6 +2,7 @@
 Built the full fledge end to end API to handle the user and organization
 
 http://localhost:8000/api/auth/register/ --> POST
+
 Sample Payload:
 {
     "name": "Gopi",
@@ -13,6 +14,7 @@ Sample Payload:
 }
 
 http://localhost:8000/api/auth/login/ -> POST
+
 Payload
 {
     "email": "abcde@gmail.com",
