@@ -11,6 +11,7 @@ Sample Payload:
     "birthdate": "2020-01-01",
     "password": "abc"
 }
+
 http://localhost:8000/api/auth/login/ -> POST
 Payload
 {
